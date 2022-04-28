@@ -59,6 +59,14 @@ body {
   margin-bottom: 10px;
 }
 
+.info {
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  padding: 8px 16px;
+  margin-bottom: 10px;
+}
+
 .container form a {
   margin-left: 10px;
 }
